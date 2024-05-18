@@ -142,13 +142,14 @@ h2 {
     font-size: 16vw;
   }
   h1 {
-    font-size: 6vw;
+    font-size: 8vw;
+    text-align:center;
   }
   h2 {
-    font-size: 4vw;
+    font-size: 6vw;
   }
   .btn {
-    font-size: 2vw;
+    font-size: 3vw;
   }
 }
 
